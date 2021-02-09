@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace InlämningsUppgift1ASP.Net.Data.Migrations
 {
-    public partial class initi : Migration
+    public partial class Initit : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
