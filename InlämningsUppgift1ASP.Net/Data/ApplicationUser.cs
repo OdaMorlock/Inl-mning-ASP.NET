@@ -10,6 +10,7 @@ namespace InlämningsUppgift1ASP.Net.Data
 {
     public class ApplicationUser : IdentityUser
     {
+
         [Required]
         [PersonalData]
         [Column(TypeName = "nvarchar(50)")]
